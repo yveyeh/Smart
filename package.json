@@ -1,0 +1,38 @@
+{
+  "name": "smart",
+  "version": "1.0.0",
+  "description": "Smart is a collection of responsive CSS modules for website design. You can easily create simple and responsive web layouts with smart.",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yveyeh/Smart.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "npm",
+    "js",
+    "html"
+  ],
+  "author": "Delvexia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yveyeh/Smart/issues"
+  },
+  "homepage": "https://github.com/yveyeh/Smart#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-strip-css-comments": "^2.0.0"
+  }
+}
